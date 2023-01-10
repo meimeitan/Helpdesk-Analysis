@@ -1,6 +1,5 @@
 # HR-Helpdesk-Analysis
-Incoming request and ticket modification analysis
-
+This is a project built to analyse the HR helpdesk Incoming volume. In addition, more in depth a ticket modification analysis was carried out for further understanding the time taken and outcome of the request.
 
 Incoming Request
 
