@@ -2,7 +2,8 @@
 
 Power BI Dashboard Helpdesk Analysis
 
-This is a project built to analyse the HR helpdesk Incoming volume. In addition, more in depth a ticket modification analysis was carried out for further understanding the time taken and outcome of the request.
+This is a project built to analyse the HR helpdesk Incoming volume for either email or phone calls.
+In addition, more in depth a ticket modification analysis was carried out for further understanding the time taken and outcome of the request.
 
 Incoming Request
 
