@@ -7,9 +7,8 @@ In addition, more in depth a ticket modification analysis was carried out for fu
 
 Incoming Request
 
-![image](https://user-images.githubusercontent.com/58686831/211332224-78431cb5-e41a-4520-94ab-511e6e2c23f5.png)
-
+![image](https://user-images.githubusercontent.com/58686831/212559734-1796eae7-381c-48a6-83a1-2dcfc0d34437.png)
 
 Ticket modification
 
-![image](https://user-images.githubusercontent.com/58686831/211333308-cd95cc48-e548-4122-8276-df452b2127a9.png)
+![image](https://user-images.githubusercontent.com/58686831/212559806-983e3634-bea2-45e9-be1b-e0e05a7894b6.png)
