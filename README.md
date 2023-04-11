@@ -2,7 +2,7 @@
 
 Power BI Dashboard Helpdesk Analysis
 
-This is a project built to analyse the Helpdesk Incoming volume for both email and phone calls.
+This is a project built to analyse the Helpdesk Incoming volume for both via email and phone calls.
 In addition, more in depth ticket modification analysis has been carried out to further understand the time taken solving the outcome of the request.
 
 Incoming Request
